@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantio Direto e Conservação do Solo</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f4;
+            color: #333;
+        }
+        header {
+            background-color: #2e7d32;
+            color: white;
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 0.5rem 0 0 0;
+            font-size: 1.2rem;
+            font-style: italic;
+        }
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        section {
+            background: white;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        h2 {
+            color: #2e7d32;
+            border-bottom: 2px solid #a5d6a7;
+            padding-bottom: 0.5rem;
+        }
+        ul {
+            padding-left: 1.5rem;
+        }
+        li {
+            margin-bottom: 0.5rem;
+        }
+        .highlight {
+            background-color: #e8f5e9;
+            border-left: 5px solid #2e7d32;
+            padding: 1rem;
+            margin: 1.5rem 0;
+        }
+        footer {
+            text-align: center;
+            padding: 1.5rem;
+            background-color: #333;
+            color: white;
+            margin-top: 3rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Plantio Direto</h1>
+        <p>A chave para a conservação e sustentabilidade do solo</p>
+    </header>
+
+    <div class="container">
+        
+        <section id="o-que-e">
+            <h2>O que é o Sistema de Plantio Direto (SPD)?</h2>
+            <p>O <strong>Plantio Direto</strong> é uma técnica de manejo do solo onde a semente é depositada diretamente no solo não revolvido. Em vez de arar ou gradear a terra antes de semear, o agricultor mantém os restos vegetais da colheita anterior (palhada) sobre a superfície.</p>
+            
+            <div class="highlight">
+                <strong>Os Três Pilares do SPD:</strong>
+                <ul>
+                    <li>Ausência ou revolvimento mínimo do solo (apenas na linha de semeadura).</li>
+                    <li>Cobertura permanente do solo (viva ou morta/palhada).</li>
+                    <li>Rotação de culturas.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="beneficios">
+            <h2>Benefícios para a Conservação do Solo</h2>
+            <p>A adoção desse sistema traz inúmeras vantagens ambientais e econômicas para a agricultura moderna:</p>
+            <ul>
+                <li><strong>Controle da Erosão:</strong> A palhada protege o solo contra o impacto direto das gotas de chuva e reduz o escoamento superficial da água.</li>
+                <li><strong>Retenção de Umidade:</strong> A cobertura morta funciona como um isolante térmico, diminuindo a evaporação e mantendo a terra úmida por mais tempo.</li>
+                <li><strong>Aumento da Matéria Orgânica:</strong> A decomposição dos restos vegetais melhora a fertilidade e a estrutura do solo a longo prazo.</li>
+                <li><strong>Sequestro de Carbono:</strong> Como o solo não é revolvido, o carbono permanece retido na terra em vez de ser liberado na atmosfera como $CO_2$.</li>
+            </ul>
+        </section>
+
+        <section id="importancia">
+            <h2>Por que isso importa?</h2>
+            <p>O solo é um recurso natural limitado e vital para a produção de alimentos. Práticas tradicionais de cultivo intenso destroem a estrutura biológica da terra, tornando-a frágil e infértil. O Plantio Direto surge como uma resposta ecológica para garantir a segurança alimentar das próximas gerações, unindo alta produtividade com responsabilidade ambiental.</p>
+        </section>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 - Conteúdo Educativo sobre Agricultura Sustentável</p>
+    </footer>
+
+</body>
+</html>
